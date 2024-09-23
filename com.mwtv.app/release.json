@@ -5,9 +5,5 @@
     "downloadUrl": "https://raw.githubusercontent.com/mw997/mwtv/master/com.mwtv.app/MWtv%204.0_541.apk"
 },
 	"forceVersionCode": 544,
-	"isIgnorable": true,
-	"config": {
-		"key1": "val1",
-		"key2": "val2"
 	}
 }
