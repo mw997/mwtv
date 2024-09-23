@@ -1,6 +1,6 @@
 {
-    "versionCode": 640,
-    "versionName": "v3.4",
-    "changelog": ["iptv-org as default playlist", "app in landscape mode", "ffmpeg libs", "optimize prebuffer", "change player layout", "and more.."],
-    "downloadUrl": "https://github.com/hariimurti/NontonTV/releases/download/v2.4/net.harimurti.tv_v2.4_b540.apk"
+    "versionCode": 544,
+    "versionName": "v2.7",
+    "changelog": ["Update aplikasi terbaru", "silahkan klik unduh apk dibawah", "playlist apk ini sudah offline", "aplikasi terbaru selalu update", "terima kasih telah menggunakan MWTV"],
+    "downloadUrl": "https://github.com/mw997/mwtv/master/com.mwtv.app/mwtv.apk"
 }
